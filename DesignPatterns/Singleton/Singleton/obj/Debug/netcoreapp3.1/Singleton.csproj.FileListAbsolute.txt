@@ -1,0 +1,13 @@
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Singleton-20210528T171355Z-001\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
