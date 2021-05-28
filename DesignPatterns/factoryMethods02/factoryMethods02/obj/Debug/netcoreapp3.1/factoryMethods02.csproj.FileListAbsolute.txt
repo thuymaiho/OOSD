@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\bin\Debug\netcoreapp3.1\factoryMethods02.exe
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\bin\Debug\netcoreapp3.1\factoryMethods02.deps.json
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\bin\Debug\netcoreapp3.1\factoryMethods02.runtimeconfig.json
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\bin\Debug\netcoreapp3.1\factoryMethods02.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\bin\Debug\netcoreapp3.1\factoryMethods02.dll
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\bin\Debug\netcoreapp3.1\factoryMethods02.pdb
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.AssemblyInfo.cs
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.dll
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.pdb
+C:\Users\Admin\source\repos\factoryMethods02\factoryMethods02\obj\Debug\netcoreapp3.1\factoryMethods02.genruntimeconfig.cache

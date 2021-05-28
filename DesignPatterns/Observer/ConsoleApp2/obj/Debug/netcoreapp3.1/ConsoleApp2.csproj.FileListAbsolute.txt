@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\Asus\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Học tập\Hoc ki 2 - nam 3\OOP déign\Observer\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
